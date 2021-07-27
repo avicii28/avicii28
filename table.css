@@ -1,0 +1,22 @@
+table {
+    border: 1px solid black;
+    width: 400px;
+    height:400px;
+    text-align: center;
+    /* margin: 50px; */
+    
+ }
+ /* границы ячеек первого ряда таблицы */
+ th {
+    border: 1px solid black;
+    margin: 20px;
+ }
+ /* границы ячеек тела таблицы */
+ td {
+    border: 1px solid black;
+ }
+button {
+    width: 100px;
+    height: 50px;
+    
+ }
